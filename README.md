@@ -1,5 +1,5 @@
 # E-commerce-Project-Dashboard-
-E-commerce Analysis
+E-commerce Data Analysis
 
 Hello, everyone!
 I'm excited to showcase my first Power BI Project Report(E- Commerce) that I mastered crafting during the live training at Microsoft Project, under the expert guidance of Akshay Kamble Sir. Analyzing Sales and Revenue Performance with Precision. Dive into a comprehensive exploration of our E-Commerce journey, where data-driven insights illuminate the path to success.
