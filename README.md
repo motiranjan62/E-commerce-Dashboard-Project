@@ -1,4 +1,4 @@
-# E-commerce-Project-Dashboard-
+# E-commerce-Dashboard-Project
 E-commerce Data Analysis
 
 Hello, everyone!
